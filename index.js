@@ -18,3 +18,4 @@ console.log("STOP!
 ")console.log(" I'm logging!
 ")
 console.log('HALP!')
+console.warn( 'Hm, do not do that.')
