@@ -10,4 +10,5 @@ console.log ("restore!
 console.log("RESTORE!")
 console.log("HALP!
 ")
-console.log("I would be a logger.")
+console.log("I would be a logger!
+")
